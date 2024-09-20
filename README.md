@@ -3,8 +3,8 @@ The dashboard highlights are as follows:
 Total Revenue: The platform generated ₹24.47M in revenue from a total of 15,000 orders.
   
 - Order Timing: 
-•	The majority of orders were placed in the morning (7.5K orders), followed by the afternoon (3.2K), night (2.5K), and the evening (1.9K). 
-•	Morning appears to be the peak time for orders.
+-The majority of orders were placed in the morning (7.5K orders), followed by the afternoon (3.2K), night (2.5K), and the evening (1.9K). 
+-Morning appears to be the peak time for orders.
 
 - Weekday vs. Weekend Orders: 
 •	A larger proportion of orders were placed on weekdays (71.21%), while weekend orders accounted for 28.79%.
